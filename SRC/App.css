@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  min-width: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-Center {
+  margin-top: 1vh;
+}
+
+.countdown-timer {
+  font-weight: bolder;
+  font-size: 5vh;
+}
+
+.timer-container {
+  font-size: 10vh;
+  font-weight: bolder;
+  margin: auto;
+}
+
+.red-text {
+  color: red;
+}
+
+.inputField {
+  padding: 1vh 1vh;
+  border-radius: 10vh;
+  min-block-size: 5vh;
+}
+
+
+.icon-styling {
+  height: 5vh;
+  width: 5vh;
+  margin-left: 2vh;
+  margin-top: 1vh;
+  text-align: center;
+}
+
+button {
+  padding: 1vh 1vh;
+  background-color: #50d8d7;
+  border-radius: 1vh;
+  margin-left: 2vh;
+  min-block-size: 5vh;
+}
+
+
+.office-clock {
+  font-weight: bold;
+  margin-left: -30vh;
+  padding: 0vh;
+}
+
+.office-clock-est{
+  margin-right: 20vh;
+}
+
+.infoButton {
+  background-color: #6600ff;
+  margin-left: 1vh;
+}
